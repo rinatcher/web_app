@@ -1,24 +1,5 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Работа посвящена разработке интерфейса, предоставляющего подробную
+обратную связь пользователю о его действиях, в том числе и в исключительных
+ситуациях
+* Ruby 3, Ruby on Rails 7.1.3, gem Devise, HTML, CSS, Postgresql 14
